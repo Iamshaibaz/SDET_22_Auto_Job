@@ -22,4 +22,9 @@ System.out.println(URL);
 	
 
 }
+@Test
+public void DeleteContactTest()
+{
+	System.out.println("hello this is deleteing contact test");
+}
 }
